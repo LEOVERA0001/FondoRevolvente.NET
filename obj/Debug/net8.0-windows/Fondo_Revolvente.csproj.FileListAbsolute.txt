@@ -3,8 +3,11 @@ D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\bin\Debug\net8.0-windows\Fondo_Rev
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\bin\Debug\net8.0-windows\Fondo_Revolvente.runtimeconfig.json
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\bin\Debug\net8.0-windows\Fondo_Revolvente.dll
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\bin\Debug\net8.0-windows\Fondo_Revolvente.pdb
+D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Controls\MainSideBar\SidebarControl.baml
+D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Controls\MainSideBar\SidebarControl.g.cs
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\App.g.cs
+D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente_MarkupCompile.cache
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente_MarkupCompile.lref
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\MainWindow.baml
@@ -13,6 +16,7 @@ D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Rev
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente.AssemblyInfoInputs.cache
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente.AssemblyInfo.cs
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente.sourcelink.json
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente.dll
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\refint\Fondo_Revolvente.dll
 D:\DESARROLLO\C#\desktopTest\Fondo_Revolvente\obj\Debug\net8.0-windows\Fondo_Revolvente.pdb

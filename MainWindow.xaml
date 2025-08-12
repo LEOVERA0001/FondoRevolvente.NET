@@ -4,9 +4,46 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fondo_Revolvente"
+        xmlns:controls="clr-namespace:Fondo_Revolvente.Controls.MainSideBar"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Fondo Revolvente" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen">
+    
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <!-- Sidebar -->
+            <ColumnDefinition Width="250"/>
+            <!-- Contenido principal -->
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <!-- Componente Sidebar -->
+        <controls:SidebarControl x:Name="Sidebar" 
+                                Grid.Column="0" 
+                                MenuItemSelected="Sidebar_MenuItemSelected"/>
+        
+        <!-- Área de contenido principal -->
+        <Grid Grid.Column="1" Background="#ECF0F1">
+            <!-- Header -->
+            <Border Height="60" 
+                    VerticalAlignment="Top" 
+                    Background="White" 
+                    BorderThickness="0,0,0,1" 
+                    BorderBrush="#BDC3C7">
+                <TextBlock Name="HeaderTitle" 
+                          Text="Dashboard" 
+                          FontSize="24" 
+                          FontWeight="Bold" 
+                          Foreground="#2C3E50" 
+                          VerticalAlignment="Center" 
+                          Margin="30,0,0,0"/>
+            </Border>
+            
+            <!-- Contenido principal -->
+            <ContentControl Name="MainContent" 
+                           Margin="30,80,30,30">
+                <!-- Contenido inicial vacío - se llenará desde el código -->
+            </ContentControl>
+        </Grid>
     </Grid>
 </Window>
